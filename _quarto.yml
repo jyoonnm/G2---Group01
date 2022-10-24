@@ -7,9 +7,9 @@ website:
     left:
       - href: proposal.html
         text: Proposal
-      - href: poster.html
+      - href: poster.qmd
         text: Poster
-      - href: report.html
+      - href: report.qmd
         text: Report
     right:
       - href: index.qmd
