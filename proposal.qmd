@@ -11,6 +11,10 @@ Want us to understand whether our new generation of MRT system are we still in l
 
 ### Objective
 
+-   To evaluate walking distances to TEL in time minutes.
+
+-   To study TEL accessibility based on catchment areas.
+
 ### About
 
 ### Timeline
