@@ -9,16 +9,26 @@ The Thomson-East Coast Line (TEL) will bring residents in the east and along the
 
 Want us to understand whether our new generation of MRT system are we still in line with the initial idea is about.
 
+------------------------------------------------------------------------
+
 ### Objective
 
 -   To evaluate walking distances to TEL in time minutes.
 
 -   To study TEL accessibility based on catchment areas.
 
+------------------------------------------------------------------------
+
 ### About
+
+------------------------------------------------------------------------
 
 ### Timeline
 
+------------------------------------------------------------------------
+
 ### Process
+
+------------------------------------------------------------------------
 
 ### Data Source
