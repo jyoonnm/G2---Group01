@@ -5,29 +5,49 @@ editor: visual
 
 ### Motivation
 
-The Thomson-East Coast Line (TEL) will bring residents in the east and along the North-South Corridor closer to a train station and hence giving them faster access to the city.
+The rapid growth of Singapore's economy and society in the early 1960s necessitated a comprehensive land use and transportation plan. As Singapore had no seamless integration of public transportation in the early 1960s, journeys were long and inconvenient. Therefore, the planners of the State and City Planning Project introduced the Mass Rapid Transit (MRT) system in 1967 to serve as an island-wide public transportation system that aims to enhance connectivity between the city centre and residential districts.
 
-Want us to understand whether our new generation of MRT system are we still in line with the initial idea is about.
+Today, the MRT station is managed by the Land Transport Authority (LTA) and is currently working on the brown MRT line, also known as the Thomson-East Coast Line (TEL) MRT station. There will be five phases to the launch of this MRT line, and we are more interested in TEL Stage 4, which comprises seven stations between Tanjong Rhu and Bayshore that were scheduled for opening in the Year 2023. We want to understand whether the new generation of the MRT system is still aligned with our original goal of better connecting the city centre and residential districts.
 
 ------------------------------------------------------------------------
 
 ### Objective
 
--   To evaluate walking distances to TEL in time minutes.
+-   In this project, we will study the MRT stations of:
 
--   To study TEL accessibility based on catchment areas.
+    1.  Tanjong Rhu
+
+    2.  Katong Park
+
+    3.  Tanjong Katong
+
+    4.  Marine Parade
+
+    5.  Marine Terrace
+
+    6.  Siglap
+
+    7.  Bayshore
+
+-   To evaluate walking distances to TEL in 5, 10, and 15 minutes time.
+
+-   To perform analysis of shelters near stations to evaluate effectiveness in case of wet weather
+
+-   To analyze accessibility to east coast park from the stations.
+
+-   To create catchment of another MRT line to compare it to the TEL.
 
 ------------------------------------------------------------------------
 
 ### About
 
+-   TE22A Founders\' Memorial station will open in tandem with the Founders\' Memorial itself in the future.
+
+-   Founders\' Memorial is projected to open in 2027 so we decided to include TE22A as a station in our project.
+
 ------------------------------------------------------------------------
 
 ### Timeline
-
-------------------------------------------------------------------------
-
-### Process
 
 ------------------------------------------------------------------------
 
